@@ -1,4 +1,5 @@
-Inspired by https://twitter.com/rush_btc/status/1673540331982184449?s=20
+
+Inspired by this [tweet](https://twitter.com/rush_btc/status/1673540331982184449?s=20)
 
 Endpoints available at https://www.bybit.com/copyTrade/
 
